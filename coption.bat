@@ -68,3 +68,4 @@ pause > Data.arc
 goto termc
 
 :termc
+cd C:\Program Files\Acro
