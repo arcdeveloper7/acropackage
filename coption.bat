@@ -1,5 +1,4 @@
 color 1e
-E:
 echo off
 cls
 :home
